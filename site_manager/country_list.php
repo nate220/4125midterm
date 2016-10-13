@@ -4,7 +4,7 @@
     <h1>Country List</h1>
 
     <div id="content">
-        <!-- display a table of winners -->
+        
         <h2>Countries</h2>
         <table>
             <tr>

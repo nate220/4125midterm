@@ -4,7 +4,7 @@
     <h1>City List</h1>
 
     <div id="content">
-        <!-- display a table of winners -->
+        
         <h2>Cities</h2>
         <table>
             <tr>
